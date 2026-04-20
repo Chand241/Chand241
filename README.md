@@ -3,7 +3,7 @@
 🎓 CSE Student | 💻 Aspiring Software Developer | 🇧🇩 Bangladesh
 
 ## 🚀 About Me
-- 🔭 Currently learning **Java OOP & Web Development**
+- 🔭 Currently learning **Java OOP ,Spring Boot & Web Development**
 - 🌱 Exploring **HTML, CSS, JavaScript**
 - 💡 Passionate about building clean, functional projects
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/chand-cse/)
