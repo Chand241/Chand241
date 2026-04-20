@@ -19,6 +19,6 @@
 | [Calculator](https://github.com/Chand241/CalculatorChand241) | Functional web calculator | HTML/CSS/JS |
 | [Portfolio](https://github.com/Chand241/portfolio) | Personal portfolio website | HTML/CSS |
 | [OOP Practice](https://github.com/Chand241/OOP_Spring25) | Java OOP assignments | Java |
-| [Smart Library Management System](https://library-management-system-0ksw.onrender.com/) | Java Spring Boot  | MySQL ,Thymeleaf | https://library-management-system-0ksw.onrender.com/
+| [Smart Library Management System](https://library-management-system-0ksw.onrender.com/) [ LIVE ] | Java Spring Boot  | MySQL ,Thymeleaf | https://library-management-system-0ksw.onrender.com/
 ---
 ⭐ *Star my repos if you find them helpful!*
