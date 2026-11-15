@@ -135,14 +135,17 @@ Passions:
 
 </div>
 
+
 ```
 🚀 Stack  : Spring Boot · MySQL · Thymeleaf · Java
+🌍 Live   : https://www.redlifebd.me](https://library-management-system-0ksw.onrender.com/
 📌 Type   : Full-Stack Web Application
-🔑 Feat   : Book management, member registration, borrowing/return tracking
 ```
 
-> A complete library management system with CRUD operations, user authentication, book inventory, borrowing history, and admin controls — built with clean MVC architecture.
-[![SLMS Live](https://img.shields.io/badge/🌐_Live_Demo-[www.redlifebd.me](https://library-management-system-0ksw.onrender.com/)-E11D48?style=for-the-badge)]([https://www.redlifebd.me](https://library-management-system-0ksw.onrender.com/))
+> A complete library management system with CRUD operations, user authentication, book inventory, borrowing history, and admin controls — built with clean MVC architecture
+
+[![SLMS Live](https://img.shields.io/badge/🌐_Live_Demo-[www.redlifebd.me-E11D48?style=for-the-badge](https://library-management-system-0ksw.onrender.com/))]([https://www.redlifebd.me](https://library-management-system-0ksw.onrender.com/))
+
 ---
 
 <div align="center">
