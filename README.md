@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-chand--portfolio.vercel.app-E11D48?style=for-the-badge&logoColor=white)](https://chand-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-https://chand241.vercel.app/-E11D48?style=for-the-badge&logoColor=white)](https://chand241.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-chand241-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chand241)
 [![GitHub](https://img.shields.io/badge/GitHub-chandmandol-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandmandol)
 [![Email](https://img.shields.io/badge/Gmail-chand.diu.cse@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chand.diu.cse@gmail.com)
@@ -266,7 +266,7 @@ Passions:
 
 [![Email Me](https://img.shields.io/badge/📧_Email-chand.diu.cse@gmail.com-E11D48?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chand.diu.cse@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chand241)
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Hire_Me-E11D48?style=for-the-badge)](https://chand-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Hire_Me-E11D48?style=for-the-badge)](https://chand241.vercel.app/)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandmandol)
 
 <br/>
@@ -281,7 +281,7 @@ Passions:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**Made with ❤️ by [Md Chand Mandol](https://github.com/chandmandol)**
+**Made with ❤️ by [Md Chand Mandol](https://github.com/chand241)**
 
 *Last Updated: November 2026*
 
