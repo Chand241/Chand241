@@ -109,6 +109,7 @@ Passions:
 
 ## 🌟 Featured Projects
 
+
 <div align="center">
 
 ### 🩸 RedLifeBD — Smart Emergency Blood Donation Platform
@@ -116,7 +117,7 @@ Passions:
 
 </div>
 
-```
+```text
 🚀 Stack  : Spring Boot · MySQL · Thymeleaf · Java
 🌍 Live   : https://www.redlifebd.me
 📌 Type   : Full-Stack Web Application
@@ -135,16 +136,17 @@ Passions:
 
 </div>
 
-
-```
+```text
 🚀 Stack  : Spring Boot · MySQL · Thymeleaf · Java
-🌍 Live   : https://www.redlifebd.me](https://library-management-system-0ksw.onrender.com/
+🌍 Live   : https://library-management-system-0ksw.onrender.com/
 📌 Type   : Full-Stack Web Application
 ```
 
-> A complete library management system with CRUD operations, user authentication, book inventory, borrowing history, and admin controls — built with clean MVC architecture
+> A complete library management system designed to streamline library operations. Features CRUD operations, user authentication, book inventory management, borrowing and returning workflows, borrowing history, and an admin dashboard — built with clean MVC architecture.
 
-[![SLMS Live](https://img.shields.io/badge/🌐_Live_Demo-[www.redlifebd.me-E11D48?style=for-the-badge](https://library-management-system-0ksw.onrender.com/))]([https://www.redlifebd.me](https://library-management-system-0ksw.onrender.com/))
+[![Smart Library System Live](https://img.shields.io/badge/🌐_Live_Demo-Smart_Library_System-E11D48?style=for-the-badge)](https://library-management-system-0ksw.onrender.com/)
+
+---
 
 ---
 
