@@ -281,7 +281,7 @@ Passions:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
-**Made with ❤️ by [Md Chand Mandol](https://github.com/chand241)**
+**Made with ❤️ by [Md Chand Mandol](https://chand241.vercel.app/)**
 
 *Last Updated: November 2026*
 
