@@ -148,8 +148,6 @@ Passions:
 
 ---
 
----
-
 <div align="center">
 
 ### 🤖 Obstacle Detector — IoT Hardware Project
